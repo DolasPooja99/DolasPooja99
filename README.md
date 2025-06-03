@@ -1,4 +1,4 @@
-👋 Hi, I’m @DolasPooja99  
+👋 Hi, I’m  Pooja Dolas  
 🌥️ I’m interested in Cloud Automation, Integrations, REST APIs, and AI  
 🧠 Currently learning LLMs, RAG, and Agentic AI techniques  
 🛠️ Building hands-on projects to deepen practical understanding  

@@ -46,4 +46,4 @@
 
 ---
 
-*Currently open to full-time roles in backend engineering, cloud infrastructure, or AI/ML engineering.*
+*Currently open to full-time roles in Software engineering, Data Engineering, cloud infrastructure, or AI/ML engineering.*

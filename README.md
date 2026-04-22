@@ -2,7 +2,7 @@
 
 **Software Engineer · Building scalable backends, cloud systems & AI-powered tools**
 
-![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-blue?style=flat-square)
+[![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-blue?style=flat-square)](https://www.linkedin.com/in/poojadolas/)
 
 ---
 
@@ -46,4 +46,4 @@
 
 ---
 
-*Currently open to full-time roles in Software engineering, Data Engineering, cloud infrastructure, or AI/ML engineering.*
+*Currently open to full-time roles in backend engineering, cloud infrastructure, or AI/ML engineering.*

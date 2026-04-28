@@ -14,6 +14,7 @@
 - Open to collaborate on open-source AI, automation tools & backend dev
 - Reach me on [LinkedIn](https://www.linkedin.com/in/poojadolas/)
 - I enjoy simplifying complex tech into real-world tools · She/Her
+- Check out my [Portfolio](https://dolaspooja99.github.io/)
 
 ---
 
